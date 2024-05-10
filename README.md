@@ -1,6 +1,6 @@
 ## Comparative Analysis of the Performance of Deep Learning Models in Identifying Sarcasm in News Titles
 
-![Sarkas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCO7rrr-2vFfGBwy6SkvB_16nY8ijWT-S_APCSCy5i9g&s) <br>
+![Sarkas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCO7rrr-2vFfGBwy6SkvB_16nY8ijWT-S_APCSCy5i9g&s)
 
 ### Introduction
 This project is conducted as part of the course "Data Mining and Business Intelligence". In the age of digital information, combating misinformation and identifying hoaxes are paramount for maintaining the integrity of online discourse and safeguarding societal trust. With the proliferation of social media platforms, the dissemination of false information has become increasingly pervasive, necessitating robust analytical approaches to discern fact from fiction. In this project, we leverage a dataset obtained legally from Mafindo, a reputable fact-checking organization in Indonesia, containing labeled data on hoax posts. Each post is labeled as either "0" for non-hoax or "1" for hoax, enabling supervised learning approaches for classification. Additionally, the dataset encompasses textual content that lends itself to topic modeling techniques, offering insights into the thematic trends and narratives surrounding hoaxes. Through a combination of classification and topic modeling methodologies, this study aims to enhance our understanding of hoax dissemination patterns and develop predictive models for identifying and mitigating the spread of misinformation.
